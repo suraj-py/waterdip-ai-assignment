@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     #local
-    "todo"
+    "todo.apps.TodoConfig",
 
     # 3rd party
     "rest_framework",
